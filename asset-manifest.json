@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/niraj-portfolio/static/css/main.bc651fe0.css",
+    "main.js": "/niraj-portfolio/static/js/main.d731b83e.js",
+    "index.html": "/niraj-portfolio/index.html",
+    "main.bc651fe0.css.map": "/niraj-portfolio/static/css/main.bc651fe0.css.map",
+    "main.d731b83e.js.map": "/niraj-portfolio/static/js/main.d731b83e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc651fe0.css",
+    "static/js/main.d731b83e.js"
+  ]
+}
