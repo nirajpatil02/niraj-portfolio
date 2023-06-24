@@ -1,0 +1,54 @@
+{
+    "experiences": [
+        {
+            "company": "Intellve",
+            "title": "Data Science Intern",
+            "duration": "June 2023 - Present",
+            "desc": [
+                "Cleaning data, creating visualisations",
+                "Data manipulation, statistical analysis",
+                "SQL, python, Excel"
+
+            ]
+        },
+        {
+            "company": "Students' Council KJSCE",
+            "title": "Marketing Intern",
+            "duration": "November 2021 - April 2022",
+            "desc": [
+                "Worked on the marketing team and also handled logistics for major fests",
+                "Developed and maintained courteous and effective working relationships.",
+                "Developed good interpersonal skills."
+
+            ]
+        },
+        {
+            "company": "ISTE KJSCE",
+            "title": "Tech Head",
+            "duration": "October 2022 - April 2023",
+            "desc": [
+                "As a Tech Head was responsible to motivate, monitor and manage the tech team of the council.",
+                "We also organize webinars, seminars and workshops for different types of technologies and topics of interests."
+               
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Olympics stats",
+            "image": "./images/olympics_img_1.jpg",
+            "desc": "A data analytics project on olympics dataset.",
+            "skills": ["Python", "Streamlit", "Pycharm"],
+            "github": "https://github.com/nirajpatil02/olympicsdata-niraj",
+            "link": ""
+        },
+        {
+            "title":"Weatherly",
+            "image": "./images/weather_img_1.jpg",
+            "desc": "Weatherly is a weather app created using Flutter.",
+            "skills": ["Flutter", "Firebase"],
+            "github": "https://github.com/InfiniteZer/Weatherly_App",
+            "link": "/"
+        }
+    ]
+}
